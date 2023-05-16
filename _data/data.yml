@@ -64,16 +64,17 @@ education:
         details: |
           I used to learn basics of Electronics and Communication Engineering here.
           We used to participate in other space related activities also like satellite building and its operation.
-            - I served as General manager of Ground Station of Inspire Sat-1
-            - Bullet point
+            - I served as Ground Station incharge of Inspire Sat-1 in Sspace
+            - worked in payload development for quadrupole mass analyzer
+            - Active participation in AI Club 
       - degree: BS in Data Science and application
         university: Indian Institute of Technology Madras (IITM)
         time: 2021 - 2025
         details: |
           Learnt Basics of 
-            - Programming and amny programming languages like Python and Java. 
+            - Programming and many programming languages like Python and Java. 
             - Data Structures and Algorithm
-            - Basics of Data Science
+            - Basics of Data Science inclusing Artificial Intelligence and Machine Learning
 experiences:
     title: Experiences
     info:
@@ -88,91 +89,47 @@ experiences:
         time: 2021 - present
         company: Sspace Lab, IIST
         details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem.
-            - Bullet point
-            - Bullet point
-      - role: UI Developer
-        time: 2012 - 2014
-        company: Amazon, London
+          Design and proposed to develop a Quadrupole mass analyzer for studying the composition of Atmosphere 
+          mainly atmosphere of other planets and payload will be usefull in interplanetary missions like sukrayaan
+          other contributions are as follow
+            - Payload Design: Quadrupole mass Analyzer
+            - Setup remote access for Ground station from Sspace Lab to controll antennas remotely
+            - repaired ground station when lightning strikes
+            - induct many juniors in Sspace Lab and Groundstation
+
+      - role: Developer
+        time: 2018 - present
+        company: Self Employed
         details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem.
-            - Bullet point
-            - Bullet point
+            Developed Many Web and Android Applications on Python(Django And Flask), Php, and many static pages using vanilla javascript and CSS.
+            - Android App for Key Management
+            - Web Apps for various purposes
+            - Websites of many Clubs like Aero Club and Sspace
 projects:
     title: Projects
     intro: >
-      You can list your side projects in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+       Some of my Self projects are:
     assignments:
-      - title: Velocity
-        link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
-
-      - title: DevStudio
+      - title: Confessinator
         link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
+        tagline: "A responsive website to convey your message to someone secretely."
 
-      - title: Tempo
+      - title: HoroAbhi
         link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+        tagline: "A responsive website to access horoscope API and render it aesthetically (Replica of website horoscope.com)."
 
-      - title: Atom
+      - title: IIST Students
         link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
+        tagline: "Android app for baisc activities of IISt like key managemnet of clubs etc"
 
-      - title: Delta
+      - title: 2-D games
         link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+        tagline: "Made more than 30 2-D games using Pygame."
 
-oss:
-    title: OSS Contributions
-    intro: >
-      You can list your open source software contributions in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
-    contributions:
-      - title: Tempo
+      - title: 3-D animation
         link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+        tagline: "MAde and rendered many 3D animations using Blender"
 
-      - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
-
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
-
-publications:
-    title: Publications
-    intro: |
-      You can list your publications in this section. Lorem ipsum dolor sit
-      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-      bibendum fringilla a eu lectus.
-    papers:
-      - title: The Art of Computer Programming
-        link: "#"
-        authors: Donald E. Knuth
-        conference: Addison-Wesley, 1968
-
-      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-        link: "#"
-        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
-
-      - title: A syntax directed compiler for Algol 60
-        link: "#"
-        authors: Edgar T. Irons
-        conference: "Comm. ACM 4 (1961), 51–55"
 
 skills:
     title: Skills &amp; Proficiency
@@ -181,20 +138,20 @@ skills:
       - name: Python & Django
         level: 98%
 
-      - name: Javascript & jQuery
+      - name: SQL
         level: 98%
 
-      - name: Angular
-        level: 98%
-
-      - name: HTML5 & CSS
-        level: 95%
-
-      - name: Ruby on Rails
+      - name: Android App Development
         level: 85%
 
-      - name: Sketch & Photoshop
-        level: 60%
+      - name: AR & VR
+        level: 80%
+
+      - name: AI & ML
+        level: 70%
+
+      - name: Game Development
+        level: 70%
 
 footer: >
-    Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
+    Made with <i class="fas fa-heart"></i> by <a href="http://abhishekverma.me" target="_blank" rel="nofollow"> Abhishek Verma.</a>
